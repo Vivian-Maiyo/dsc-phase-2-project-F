@@ -1,5 +1,8 @@
 # House Price Prediction in King County
 
+![house](/images/House.jpg)
+
+
 Author: Group 12
 
 
