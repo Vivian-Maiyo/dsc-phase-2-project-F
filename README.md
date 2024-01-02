@@ -1,6 +1,6 @@
 # House Price Prediction in King County
 
-Author: Ngabu Caroline Wanja
+Author: Group 12
 
 
 ## Project Overview
@@ -23,6 +23,8 @@ The data was cleaned and prepared for analysis. Exploratory data analysis was co
 ## Results
 
 Our multiple linear regression model consisted 6 predictor variables and an intercept that were all statistically significant with p-values of 0.00. The R-squared value of the model was 0.582, meaning the variables were accounting for 58.2% of the variance in the outcome variable. 
+
+![image info](.images/multipleregression.png)
 
 
 ## Recommendations
